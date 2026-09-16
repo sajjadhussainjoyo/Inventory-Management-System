@@ -159,10 +159,6 @@ The app includes demo user data for quick access.
 - Charts and analytics improvements
 - Notification system for low stock
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Author
 
 Built as a React Native inventory management app project for warehouse and stock operations.
