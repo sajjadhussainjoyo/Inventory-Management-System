@@ -2,6 +2,9 @@
 
 A modern inventory management mobile app built with React Native and Expo. The app helps businesses track products, stock levels, suppliers, orders, and reports from a clean dashboard experience.
 
+![image alt](
+https://github.com/sajjadhussainjoyo/Inventory-Management-System/blob/12994dc82195468dc1aa40034c2c3a16fdc9c882/IMS%20React%20Native.jpg)
+
 ## Overview
 
 IMS App is designed as a lightweight warehouse management system for keeping inventory organized and easy to monitor. It includes a dashboard overview, product inventory management, supplier records, order tracking, and profile/auth flows.
